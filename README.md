@@ -21,7 +21,7 @@ npm run dev      # http://localhost:5173
 ```
 
 ## Add or edit a source
-Everything lives in `src/data/sources.ts`. Copy an entry, give it the next `id`, and fill in every field. The chart and counts update automatically.
+Everything lives in `src/data/sources.ts`. Copy an entry, give it the next `id`, and fill in every field. The chart and counts update automatically. Add the Simplified Chinese version of its note to `src/data/notes.zh.ts` under the same `id`.
 
 ## Deploy
 ```bash
